@@ -1,0 +1,7 @@
+plugins {
+    id("convention.feature")
+}
+
+android {
+    namespace 'com.pengxr.practice1_statelayout'
+}
